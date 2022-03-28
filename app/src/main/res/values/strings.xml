@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pizzeria Juanito</string>
+    <string name="txtnombre">Nombre</string>
+    <string name="BtnAceptar">Aceptar</string>
+</resources>
